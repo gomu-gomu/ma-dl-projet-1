@@ -1,8 +1,14 @@
 # Détection du cancer du sein à partir de la mammographie par l'utilisation de l’IA
 
-Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
+The dataset should be put inside the [assets](./assets/tp.pdf) folder.
 
 Source code is under the [src](./src/) folder
+
+## Dataset
+
+The dataset in question is the [mini MAIS database of Mammography](http://peipa.essex.ac.uk/info/mias.html).
+
+The dataset is available for download [here](http://peipa.essex.ac.uk/pix/mias/all-mias.tar.gz).
 
 ## Usage
 
